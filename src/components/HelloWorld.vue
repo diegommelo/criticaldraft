@@ -63,12 +63,13 @@ export default {
     return {
       players: [
         { name: "Valci", value: 60, id:1, disp:true },
-        { name: "Diego", value: 50, id:2, disp:true },
-        { name: "Rodrigo", value: 50, id:3,disp:true },
+        { name: "Diego", value: 40, id:2, disp:true },
+        { name: "Rodrigo", value: 40, id:3,disp:true },
         { name: "Tico", value: 30, id: 4, disp:true },
         { name: "Leo", value: 30, id:7, disp:true},      
         { name: "Eric", value: 20, id: 5, disp:true},
         { name: "Rafinho", value: 20, id:6, disp:true},
+        { name: "Cris", value: 20, id:14, disp:true},        
         { name: "Jv", value: 10, id:8, disp:true},
         { name: "Bill", value: 10, id:9, disp:true},
         { name: "Remo", value: 10, id:10, disp:true},
